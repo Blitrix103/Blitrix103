@@ -1,7 +1,5 @@
 Oi!
-Eu sou o Blitrix, um jovem entusiasta do mundo da tecnologia, mais epecificamente em programação e funcionamento de maquinas logicas!
-Não sou desenvolvedor a muito tempo, mais sei que eu posso e posso ainda mais com os meus esforços individuais
-Estudo de forma auto-didata, ou sejá a minha curiosidade me levou a explorar caminhos da tecnologia faxinantes e  hoje pretendo entrar na area!
-
-Vejo me em desenvolvimento de jogos, web, mobile e, ainda em duvida, cyber segurança
-Bem obrigado por tirar um minutinho para saber mais sobre mim :]
+Eu sou o Blitrix... isso é uma coisa boa?! não sei porem garanto que o que esta por vir será...
+(pausa dramática para uma revelação chocante...)
+Opha, lembrei-me que ainda não fiz o sprite do boss final (-_-)
+fica para a próxima, se consegui aprender godot/godotscript + libresprite/pixel-art + FLStudio/efeitos_sonoros + gameDesign + "Uma serie de coisas que não me lembro o nome🥲"
