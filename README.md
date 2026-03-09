@@ -1,4 +1,5 @@
 Oi!
+
 Eu sou o Blitrix... isso é uma coisa boa?! não sei porem garanto que o que esta por vir será...
 (pausa dramática para uma revelação chocante...)
 Opha, lembrei-me que ainda não fiz o sprite do boss final (-_-)
